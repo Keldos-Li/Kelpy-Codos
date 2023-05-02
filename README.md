@@ -20,11 +20,11 @@
 当然你也可以在油猴脚本的图像化设置页面中添加包括`@match`和`@include`在内的各种规则。
 
 ## 细节
-原本的开发目的是给 [川虎ChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) 增加代码框复制按钮功能，不过，所有遵循 `<pre><code>代码块内容</code></pre>` 写法的网站的代码框也都会被执行该脚本而加上复制按钮。
+原本的开发目的是给 [川虎Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) 增加代码框复制按钮功能，不过，所有遵循 `<pre><code>代码块内容</code></pre>` 写法的网站的代码框也都会被执行该脚本而加上复制按钮。
 
-- 因为已经找到了方法让 gradio 引入 js，该脚本已写入 川虎ChatGPT。本项目将停止更新。
+- 因为已经找到了方法让 gradio 引入 js，该脚本已写入 川虎Chat。本项目将停止更新。
 
 ## 感谢
-Thanks to [@Chuanhu](https://github.com/GaiZhenbiao) for developing the awesome [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) and also inspiring my coding enthusiasm as a good friend~
+Thanks to [@Chuanhu](https://github.com/GaiZhenbiao) for developing the awesome [ChuanhuChat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) and also inspiring my coding enthusiasm as a good friend~
 
 另外，如果有用，请给我个 ⭐ ~

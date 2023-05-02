@@ -3,13 +3,28 @@
 // @namespace    https://github.com/Keldos-Li/Kelpy-Codos
 // @version      1.0.5
 // @author       Keldos; https://keldos.me/
-// @description  Add copy button to PRE tags before CODE tag, for Chuanhu ChatGPT especially. 
-// @description  请注意，如果其他网站也存在<pre><code>层级的代码框样式，该脚本也可能覆盖原样式或按钮。
-// @description  Match Chuanhu ChatGPT version: ac04408 (2023-3-22)
+// @description  Add copy button to PRE tags before CODE tag, for Chuanhu Chat especially. 
+//               请注意，如果其他网站也存在<pre><code>层级的代码框样式，该脚本也可能覆盖原样式或按钮。
+//               Match Chuanhu Chat version: ac04408 (2023-3-22)
+//               Checkout Chuanhu Chat: https://github.com/GaiZhenbiao/ChuanhuChatGPT
 // @match        *://*/*
-// @license      GPL-3.0
+// @license      Apache-2.0
 // @grant        none
 // ==/UserScript==
+
+// Copyright 2023 Keldos
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 
 (function () {
     'use strict';
